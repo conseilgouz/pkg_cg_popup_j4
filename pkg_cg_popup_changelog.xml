@@ -12,6 +12,7 @@
         </remove>
 		<addition>
             <item>Use Animate.css</item>
+			<item>New option : show on exit</item>
 		</addition>
 		<change>
 			<item>Updates/changelog on github</item>
