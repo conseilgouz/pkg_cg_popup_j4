@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+ <extension type="package" version="4" method="upgrade">
+ <name>Package CG Popup</name>
+ <creationDate>2023 February</creationDate>
+ <packagename>cg_popup</packagename>
+ <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+ <author>ConseilGouz</author>
+ <authorEmail>pascal.leconte@conseilgouz.com</authorEmail>
+ <authorUrl>www.conseilgouz.com</authorUrl>
+ <version>2.2.0</version>
+ <url>https://www.conseilgouz.com/</url>
+ <packager>ConseilGouz</packager>
+ <description>Package CG Popup</description>
+ <files folder="packages">
+   <file type="module" id="mod_cg_popup" client="site">mod_cg_popup_j4.zip</file>
+   <file type="file" id="file_layouts_conseilgouz" >file_layouts_conseilgouz.zip</file>
+ </files>
+ <changelogurl>https://raw.githubusercontent.com/conseilgouz/pkg_cg_popup_j4/master/pkg_cg_popup_changelog.xml</changlogurl>	
+ <updateservers>
+	<server type="extension" name="CG Popup" priority="1">https://github.com/conseilgouz/pkg_cg_popup_j4/archive/refs/tags/2.2.0.zip</server>
+ </updateservers>
+ </extension>

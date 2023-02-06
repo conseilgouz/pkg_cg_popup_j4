@@ -1,0 +1,42 @@
+<changelogs>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
+		<version>2.2.0</version>
+        <note>
+            <item>Update : 05/02/2023</item>
+        </note>
+        <remove>
+            <item>Remove JQuery dependancy</item>
+            <item>Remove Velocity dependancy</item>
+        </remove>
+		<addition>
+            <item>Use Animate.css</item>
+		</addition>
+		<change>
+			<item>Updates/changelog on github</item>
+		</change>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
+		<version>2.1.0</version>
+        <note>
+            <item>Update : 21/12/2021</item>
+        </note>
+        <addition>
+            <item>Phoca collapse compatibility</item>
+        </addition>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
+		<version>2.0.0</version>
+        <note>
+            <item>Update : 02/10/2021</item>
+        </note>
+        <addition>
+            <item>Joomla 4.0 compatibility</item>
+        </addition>
+	</changelog>
+</changelogs>
