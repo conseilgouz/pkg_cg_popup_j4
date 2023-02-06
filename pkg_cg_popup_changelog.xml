@@ -6,6 +6,17 @@
         <note>
             <item>Update : 05/02/2023</item>
         </note>
+		<fix>
+			<item>Packaging error</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
+		<version>2.2.0</version>
+        <note>
+            <item>Update : 05/02/2023</item>
+        </note>
         <remove>
             <item>Remove JQuery dependancy</item>
             <item>Remove Velocity dependancy</item>
