@@ -2,6 +2,18 @@
 	<changelog>
 		<element>mod_cg_popup</element>
 		<type>package</type>
+		<version>2.2.5</version>
+        <note>
+            <item>Update : 07/02/2023</item>
+        </note>
+		<fix>
+			<item>Error if show title is set to no</item>
+			<item>Error if show close button set to no</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
 		<version>2.2.4</version>
         <note>
             <item>Update : 07/02/2023</item>
