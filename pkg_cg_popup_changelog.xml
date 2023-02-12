@@ -2,6 +2,28 @@
 	<changelog>
 		<element>mod_cg_popup</element>
 		<type>package</type>
+		<version>2.2.8</version>
+        <note>
+            <item>Update : 12/02/2023</item>
+        </note>
+		<fix>
+			<item>Show/hide inline help in subforms</item>
+		</fix>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
+		<version>2.2.7</version>
+        <note>
+            <item>Update : 12/02/2023</item>
+        </note>
+		<addition>
+			<item>Close popup on click outside</item>
+		</addition>
+	</changelog>
+	<changelog>
+		<element>mod_cg_popup</element>
+		<type>package</type>
 		<version>2.2.6</version>
         <note>
             <item>Update : 08/02/2023</item>
